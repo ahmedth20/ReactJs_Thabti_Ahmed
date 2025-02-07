@@ -1,19 +1,27 @@
-import 'react';
-import Header from './components/Header';
-import Footer from './components/Footer';
-import './App.css';
+import { useState } from 'react'
+import Header from './components/Header'
+import Footer from './components/Footer'
+import CounterC from './CounterC'
+import CounterF from './CounterF'
+// import './App.css'
 
 function App() {
+  const [count, setCount] = useState(0);
+  const [name] = useState('');
+  const [lastName] = useState('');
+const handleClick =()=>{setCount(()=>count+1)}
   return (
-    <div className="App">
-      <Header />
-      <main>
-        <h1>Bienvenue sur mon site React</h1>
-        <p>Ceci est un exemple de projet React avec un Header et un Footer.</p>
-      </main>
-      <Footer />
-    </div>
-  );
+    <>
+     <Header name={name} lastName={lastName} />
+     <button onClick={handleClick}>{count}</button>
+     <CounterC counter={count}/>
+
+     <h1>Counter F</h1>
+     <CounterF/>
+    
+     <Footer />
+       </>
+  )
 }
 
-export default App;
+export default App

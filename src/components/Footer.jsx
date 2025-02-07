@@ -10,7 +10,6 @@ const Footer = () => {
         <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">Twitter</a>
         <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">Instagram</a>
       </div>
-      <p>&copy; 2023 Mon Projet React. Tous droits réservés.</p>
     </footer>
   );
 };
