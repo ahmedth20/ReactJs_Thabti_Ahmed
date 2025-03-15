@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "workshop-react",
+=======
+  "name": "firstproject",
+>>>>>>> d658a0f (Atelier-State)
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -10,9 +14,24 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "workshop-react": "file:"
+=======
+    "@hookform/resolvers": "^4.1.2",
+    "axios": "^1.8.1",
+    "bootstrap": "^5.3.3",
+    "firstproject": "file:",
+    "json-server": "^1.0.0-beta.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.9",
+    "react-dom": "^18.3.1",
+    "react-hook-form": "^7.54.2",
+    "react-router-dom": "^7.2.0",
+    "zod": "^3.24.2",
+    "zustand": "^5.0.3"
+>>>>>>> d658a0f (Atelier-State)
   },
   "devDependencies": {
     "@eslint/js": "^9.17.0",

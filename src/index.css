@@ -26,7 +26,11 @@ body {
   margin: 0;
   display: flex;
   place-items: center;
+<<<<<<< HEAD
   /* min-width: 320px; */
+=======
+  min-width: 320px;
+>>>>>>> d658a0f (Atelier-State)
   min-height: 100vh;
 }
 
@@ -53,6 +57,13 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+<<<<<<< HEAD
+=======
+a.btn.active-btn{
+  border: 2px solid blue;
+  border-radius: 10px;
+}
+>>>>>>> d658a0f (Atelier-State)
 
 @media (prefers-color-scheme: light) {
   :root {

@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Festival international de monastir",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+      "img": "event1.jpg",
+      "price": 30,
+      "nbTickets": 10,
+      "nbParticipants": 10,
+      "like": false
+    },
+    {
+      "name": "Festival de la médina de bizerte ",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisée à titre provisoire pour calibrer une mise en page",
+      "price": 15,
+      "nbTickets": 4,
+      "nbParticipants": 30,
+      "img": "image.jpg",
+      "id": "2"
+    },
+    {
+      "id": "db9e",
+      "name": "tag 12",
+      "description": "test Event Creation Axios",
+      "img": "event2.jpg",
+      "price": 0.01,
+      "nbTickets": 1,
+      "nbParticipants": 0,
+      "like": false
+    },
+    {
+      "name": "tag 2999",
+      "description": "test Event Creation Axios",
+      "img": "event2.jpg",
+      "price": 1.3,
+      "nbTickets": 53,
+      "nbParticipants": 0,
+      "like": false,
+      "id": "0fcb"
+    },
+    {
+      "id": "1cfe",
+      "name": "ferfaef",
+      "description": "kuguuuuuuuuuuuuu",
+      "price": 121,
+      "nbTickets": 1212,
+      "nbParticipants": 121,
+      "img": "image.jpg"
+    },
+    {
+      "id": "71e3",
+      "name": "ferfaef",
+      "description": "kuguuuuuuuuuuuuu",
+      "price": 121,
+      "nbTickets": 1212,
+      "nbParticipants": 121,
+      "img": "image.jpg"
+    },
+    {
+      "id": "72f0",
+      "name": "bassem hamraoui",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "price": 12,
+      "nbTickets": 21,
+      "nbParticipants": 123
+    },
+    {
+      "id": "3f8a",
+      "name": "lotfi bouchnek",
+      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+      "price": 12,
+      "nbTickets": 21,
+      "nbParticipants": 123
+    },
+    {
+      "id": "22b7",
+      "name": "dance classique",
+      "description": "equipe de russie",
+      "price": 2,
+      "nbTickets": 2,
+      "nbParticipants": 2
+    },
+    {
+      "id": "2737",
+      "name": "karim gharbi",
+      "description": "sousse",
+      "price": 12,
+      "nbTickets": 12,
+      "nbParticipants": 12
+    },
+    {
+      "name": "aymen",
+      "description": "festival de carthage",
+      "price": 12,
+      "nbTickets": 12,
+      "nbParticipants": 13,
+      "img": "image.jpg",
+      "id": "4423"
+    }
+  ]
+}
